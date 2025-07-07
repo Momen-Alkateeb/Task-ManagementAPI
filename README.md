@@ -85,11 +85,35 @@ The database is designed using **Code First** approach. It includes:
 
 ## 📷 Swagger UI Screenshots
 
-You can add Swagger UI screenshots here by placing image files in your repo and referencing them:
+📂 Project Structure
+Task-ManagementAPI/
+├── Controllers/
+│   ├── AdminController.cs
+│   ├── ManagerController.cs
+│   ├── EmployeeController.cs
+├── Models/
+├── DTO/
+├── Repositories/
+├── Data/
+├── Program.cs
+├── appsettings.json
+└── README.md
 
-```markdown
-### 🔑 Login Endpoint
-![Login](./screenshots/login.png)
+▶️ Getting Started
+Clone the repo
+Open the solution in Visual Studio 2022+
+Run database migration using EF Core
+Launch the project and test it using Swagger UI or Postman
+🔗 API Endpoints (Examples)
+POST /api/Auth/Register – Register new user (Admin only)
+POST /api/Auth/Login – User login and JWT token generation
+POST /api/Manager/AddTask – The Manager adds a task
+GET /api/Manager/GetAllTasks – View all tasks
+GET /api/Employee/MyTasks – Employee views their own tasks
+PUT /api/Employee/UpdateTaskStatus/{taskId} – Update task status
 
-### 📥 Create Task
-![Create Task](./screenshots/create_task.png)
+👤 Developer
+Name: Momen Omar Alkateeb
+Degree: B.Sc. in Computer Engineering – Tafila Technical University
+LinkedIn: Momen Alkateeb
+
