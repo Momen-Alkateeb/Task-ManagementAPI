@@ -166,7 +166,7 @@ Run the project from Visual Studio or use:
   - Employee updates task status
 ```
 ---
-## 👤 Developer
+## 👨‍💻 Developer
 - Name: Momen Omar Alkateeb
 - Degree: B.Sc. in Computer Engineering – Tafila Technical University
 
