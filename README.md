@@ -100,20 +100,20 @@ Task-ManagementAPI/
 └── README.md
 
 ## ▶️ Getting Started
-Clone the repo
-Open the solution in Visual Studio 2022+
-Run database migration using EF Core
-Launch the project and test it using Swagger UI or Postman
+-Clone the repo
+-Open the solution in Visual Studio 2022+
+-Run database migration using EF Core
+-Launch the project and test it using Swagger UI or Postman
 ## 🔗 API Endpoints (Examples)
-POST /api/Auth/Register – Register new user (Admin only)
-POST /api/Auth/Login – User login and JWT token generation
-POST /api/Manager/AddTask – The Manager adds a task
-GET /api/Manager/GetAllTasks – View all tasks
-GET /api/Employee/MyTasks – Employee views their own tasks
-PUT /api/Employee/UpdateTaskStatus/{taskId} – Update task status
+-POST /api/Auth/Register – Register new user (Admin only)
+-POST /api/Auth/Login – User login and JWT token generation
+-POST /api/Manager/AddTask – The Manager adds a task
+-GET /api/Manager/GetAllTasks – View all tasks
+-GET /api/Employee/MyTasks – Employee views their own tasks
+-PUT /api/Employee/UpdateTaskStatus/{taskId} – Update task status
 
 ## 👤 Developer
-Name: Momen Omar Alkateeb
-Degree: B.Sc. in Computer Engineering – Tafila Technical University
-LinkedIn: Momen Alkateeb
+-Name: Momen Omar Alkateeb
+-Degree: B.Sc. in Computer Engineering – Tafila Technical University
+-LinkedIn: Momen Alkateeb
 
