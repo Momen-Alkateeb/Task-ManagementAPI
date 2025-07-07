@@ -164,9 +164,10 @@ Run the project from Visual Studio or use:
 
 - `PUT /api/Employee/UpdateStatus/{taskId}`  
   - Employee updates task status
-
+```
+---
 ## 👤 Developer
--Name: Momen Omar Alkateeb
--Degree: B.Sc. in Computer Engineering – Tafila Technical University
--LinkedIn: Momen Alkateeb
+- Name: Momen Omar Alkateeb
+- Degree: B.Sc. in Computer Engineering – Tafila Technical University
+
 
