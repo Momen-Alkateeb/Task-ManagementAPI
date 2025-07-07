@@ -86,31 +86,84 @@ The database is designed using **Code First** approach. It includes:
 ## 📷 Swagger UI Screenshots
 
 ## 📂 Project Structure
+
+- Follows layered architecture for separation of concerns
+- Organized into folders: Controllers, Models, DTOs, Repositories, Data
+- Uses Repository Pattern for maintainability
+
+plaintext
 Task-ManagementAPI/
 ├── Controllers/
-│   ├── AdminController.cs
-│   ├── ManagerController.cs
-│   ├── EmployeeController.cs
-├── Models/
+│   ├── AdminController.cs          - Admin endpoints
+│   ├── ManagerController.cs        - Manager endpoints
+│   ├── EmployeeController.cs       - Employee endpoints
+│   ├── AuthController.cs           - Login/Register
 ├── DTO/
+│   ├── AddingTaskDTO.cs
+│   ├── DisplayTaskDTO.cs
+│   └── UserDTOs.cs
+├── Models/
+│   └── Task.cs
 ├── Repositories/
+│   ├── ITaskRepo.cs
+│   ├── TaskRepository.cs
+│   └── AuthRepository.cs
 ├── Data/
+│   └── AppDbContext.cs
 ├── Program.cs
 ├── appsettings.json
 └── README.md
 
+
+
+
 ## ▶️ Getting Started
--Clone the repo
--Open the solution in Visual Studio 2022+
--Run database migration using EF Core
--Launch the project and test it using Swagger UI or Postman
-## 🔗 API Endpoints (Examples)
--POST /api/Auth/Register – Register new user (Admin only)
--POST /api/Auth/Login – User login and JWT token generation
--POST /api/Manager/AddTask – The Manager adds a task
--GET /api/Manager/GetAllTasks – View all tasks
--GET /api/Employee/MyTasks – Employee views their own tasks
--PUT /api/Employee/UpdateTaskStatus/{taskId} – Update task status
+
+- Make sure you have **Visual Studio 2022+** and **.NET 6 or later**
+- Set up your local **SQL Server** instance
+- Clone the repo:
+
+```bash
+git clone https://github.com/Momen-Alkateeb/Task-ManagementAPI.git
+dotnet ef database update
+Run the project from Visual Studio or use:
+```
+---
+
+### 🔗 API Examples
+
+```markdown
+## 🔗 API Examples
+
+- `POST /api/Auth/Register`  
+  - Register new user (**Admin only**)
+
+- `POST /api/Auth/Login`  
+  - Login with email & password, returns JWT token
+
+- `POST /api/Manager/AddTask`  
+  - Manager creates task and assigns to employee
+
+- `GET /api/Manager/GetAllTasks`  
+  - Manager fetches all tasks
+
+- `GET /api/Manager/GetTaskById/{id}`  
+  - Manager fetches task by ID
+
+- `GET /api/Manager/GetTasksByUserName/{username}`  
+  - Manager gets tasks for a specific employee
+
+- `PUT /api/Manager/UpdateTask/{id}`  
+  - Manager updates task by ID
+
+- `DELETE /api/Manager/DeleteTask/{id}`  
+  - Manager deletes task
+
+- `GET /api/Employee/MyTasks`  
+  - Employee views their assigned tasks
+
+- `PUT /api/Employee/UpdateStatus/{taskId}`  
+  - Employee updates task status
 
 ## 👤 Developer
 -Name: Momen Omar Alkateeb
