@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\repository\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\repository\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\dto\\taskdto\\displaytaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\dto\\taskdto\\displaytaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\dto\\displayuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\dto\\displayuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\dbinfo\\taskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\dbinfo\\taskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\dbinfo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\dbinfo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|c:\\users\\momen\\onedrive\\desktop\\linq\\taskmangmentapi\\taskmangmentapi\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3939E7A5-925C-48D3-B4C1-8384FC63EF0D}|TaskMangmentApi\\TaskMangmentApi.csproj|solutionrelative:taskmangmentapi\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "TaskMangmentApi\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:39:51.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Program.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:06:11.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:54:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Repository\\IEmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\IEmployeeRepo.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Repository\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:51:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskConfig.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Dbinfo\\TaskConfig.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Dbinfo\\TaskConfig.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Dbinfo\\TaskConfig.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Dbinfo\\TaskConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:36:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Dbinfo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Dbinfo\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Dbinfo\\AppDbContext.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Dbinfo\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:15:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskRepo.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\ITaskRepo.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Repository\\ITaskRepo.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\ITaskRepo.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Repository\\ITaskRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:05:50.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Tasks.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:13:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:21:10.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\DTO\\TaskDTO\\DisplayTaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\DTO\\TaskDTO\\DisplayTaskDTO.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\DTO\\TaskDTO\\DisplayTaskDTO.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\DTO\\TaskDTO\\DisplayTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:14:04.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\DTO\\DisplayUserDTO.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\DTO\\DisplayUserDTO.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\DTO\\DisplayUserDTO.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\DTO\\DisplayUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:13:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Models\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Models\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Models\\Repository\\TaskRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:13:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskMangmentApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Linq\\TaskMangmentApi\\TaskMangmentApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskMangmentApi\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:52:36.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
