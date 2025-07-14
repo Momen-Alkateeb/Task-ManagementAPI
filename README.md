@@ -67,6 +67,7 @@ This API enables organizations to manage tasks efficiently through role-based ac
 | ASP.NET Identity    | User management and authentication   |
 | JWT                 | Token-based authentication           |
 | Swagger UI          | API testing and documentation        |
+| Postman             | API testing and documentation        |
 | Repository Pattern  | Clean and testable code architecture |
 
 ---
