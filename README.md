@@ -84,7 +84,6 @@ The database is designed using **Code First** approach. It includes:
 
 ---
 
-## 📷 Swagger UI Screenshots
 
 ## 📂 Project Structure
 
